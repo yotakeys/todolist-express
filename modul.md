@@ -72,7 +72,7 @@
 
   ```
 
-- Load to env variable config.ts
+- Load env variable to config.ts
 
   ```js
   import dotenv from 'dotenv';
